@@ -1,0 +1,5 @@
+C:\Users\13982\Desktop\学校相关\哎！是作业\SchoolAssignment_WordCount\201731062515\wordCount\wordCount\bin\Debug\wordCount.exe
+C:\Users\13982\Desktop\学校相关\哎！是作业\SchoolAssignment_WordCount\201731062515\wordCount\wordCount\bin\Debug\wordCount.pdb
+C:\Users\13982\Desktop\学校相关\哎！是作业\SchoolAssignment_WordCount\201731062515\wordCount\wordCount\obj\Debug\wordCount.csproj.CoreCompileInputs.cache
+C:\Users\13982\Desktop\学校相关\哎！是作业\SchoolAssignment_WordCount\201731062515\wordCount\wordCount\obj\Debug\wordCount.exe
+C:\Users\13982\Desktop\学校相关\哎！是作业\SchoolAssignment_WordCount\201731062515\wordCount\wordCount\obj\Debug\wordCount.pdb
